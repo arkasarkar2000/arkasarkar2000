@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning ReactJs,ExpressJS...
 - 👯 I’m looking to collaborate on any FrontEnd Web Projects ...
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jgx5vvc2nhwlobaszkaiuh2mr)
+![](https://komarev.com/ghpvc/?username=arkasarkar2000)
+
 
 
 
