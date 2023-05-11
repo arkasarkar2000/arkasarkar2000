@@ -1,8 +1,10 @@
-### Hi there 👋
+
 
 - 🔭 I’m Web Developer in making...
 - 🌱 I’m currently learning ReactJs,ExpressJS...
 - 👯 I’m looking to collaborate on any FrontEnd Web Projects ...
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 
 
 
